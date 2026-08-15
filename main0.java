@@ -1,6 +1,6 @@
-public class main0 {
+public class main0{
      public static void main(String[] args){
-    person obj=new person();
+    Student obj=new Student();
     obj.input();
     obj.display();
      }
